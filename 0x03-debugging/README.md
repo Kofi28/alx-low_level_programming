@@ -1,1 +1,1 @@
-this directory contains debugging in C
+this directory contains debugging on C
