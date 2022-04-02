@@ -1,1 +1,1 @@
-this directory contain C projects on Static libraries
+this directory contains projects on C - Static libraries
